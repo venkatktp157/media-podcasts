@@ -40,5 +40,11 @@
     "type": "audio",
     "filename": "https://wavphq1kc6ulbtnz.public.blob.vercel-storage.com/%E0%A4%A1%E0%A4%B0_%E0%A4%95%E0%A5%87_%E0%A4%86%E0%A4%97%E0%A5%87_%E0%A4%9C%E0%A5%80%E0%A4%A4_%E0%A4%B9%E0%A5%88.m4a",
     "category": "Story"
+  },
+  {
+    "title": "Maritime AI in Pilot Purgatory",
+    "type": "audio",
+    "filename": "https://wavphq1kc6ulbtnz.public.blob.vercel-storage.com/Maritime_AI_in_Pilot_Purgatory.m4a",
+    "category": "Tech."
   }
 ]
